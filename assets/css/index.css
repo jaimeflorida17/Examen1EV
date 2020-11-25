@@ -16,9 +16,14 @@ body {
 }
 
 .text-container {
+    
     width: 60%;
     padding: 2em;
     padding: 2em;
+}
+
+.text-container:focus{
+   font-size: bold ;
 }
 
 .image-container {
